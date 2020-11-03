@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker build -t 289208114389.dkr.ecr.us-east-1.amazonaws.com/picpay/php-7.4.x-fpm-base:1.0.0 .
+docker push 289208114389.dkr.ecr.us-east-1.amazonaws.com/picpay/php-7.4.x-fpm-base:1.0.0
