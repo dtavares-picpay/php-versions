@@ -11,7 +11,7 @@ Novos micro serviços utilizando Php 7.4.x
 
 obs: versão com terminação x podem sofrer updates de patch (php) certifique se de que isso não cause problemas em sua aplicação.
 
-Sobre o que são esses patchs abaixo tem link sobre semantic version:
+Sobre o que são esses patchs, abaixo tem link sobre semantic version: <br />
 https://semver.org/lang/pt-BR/
 
 ## Change Log
